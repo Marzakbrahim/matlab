@@ -8,4 +8,4 @@ end
 end
 end
 figure 
-plot(y,z)
+plot(y,z) %ctt
